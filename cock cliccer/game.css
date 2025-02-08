@@ -1,0 +1,90 @@
+#Quit{
+    background-color: white;
+}
+
+#Game{
+    padding-left: 0.5%;
+    background-color: rgb(119, 89, 89);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(153, 255, 0);
+    text-align: center;
+    text-shadow: 3px 3px black;
+}
+
+#broene{
+    color:white;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 4px 2px black;
+    margin: 2px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(153, 255, 0);
+    text-shadow: 3px 3px black;
+    margin: 7px;
+}
+
+
+button{
+    color: gold;
+    border-radius:  30px;
+    border-color: transparent;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+button:hover{
+    color:aqua;
+    width: 170px;
+}
+
+#refreshId{
+    color: rgb(143, 7, 7);
+    height: 30px;
+}
+
+#refreshId:hover{
+    width: 100px;
+    color: red;
+}
+
+hr{
+    color: transparent;
+}
+
+#kartinka1{
+    border-radius: 30px;
+    border-color:aquamarine;
+}
+
+#kartinka1:active{
+    width: 300px;
+    height:270px;
+}
+
+#shop{
+    color:green;
+    width: auto;
+}
+
+#shop:hover{
+    color: greenyellow;
+}
+
+button:active{
+    color:rgb(30, 255, 0);
+    font-style: italic
+}
+
+a:hover{
+    font-weight: bolder;
+    color:rgb(0, 119, 255);
+    
+}
+
